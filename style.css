@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+    margin:30px;
+}
+h2{
+    color: rgb(255, 0, 34);
+    text-align: center;
+
+   }
+   td{
+    color: rgb(157, 16, 244);
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+   }
+   
